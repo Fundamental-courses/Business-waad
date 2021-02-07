@@ -38,4 +38,4 @@ Waad makhamreh
 
 
 # Github Pages Link:
-https://github.com/Fundamental-courses/Business-waad/
+ https://fundamental-courses.github.io/Business-waad/.
